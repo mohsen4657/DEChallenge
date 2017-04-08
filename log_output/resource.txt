@@ -1,0 +1,10 @@
+/shuttle/countdown/video/livevideo.jpeg,6823936
+/statistics/1995/bkup/Mar95_full.html,3155499
+/statistics/1995/Jun/Jun95_reverse_domains.html,2973350
+/statistics/1995/Mar/Mar95_reverse_domains.html,2889868
+/mdss/ped/acs/SDP.ps,2854989
+/statistics/1995/Jul/Jul95_reverse_domains.html,2661134
+/statistics/1995/bkup/Apr95_full.html,1969293
+/statistics/1995/bkup/Feb95_full.html,1767078
+/statistics/1995/Apr/Apr95_reverse_domains.html,1724752
+/shuttle/missions/sts-66/news/core,1572864
